@@ -1,0 +1,213 @@
+body{
+	font-family: "microsoft yahei",sans-serif; 
+}
+img{
+	width: 100%;
+	height: 100%;
+}
+.mai-icon{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	margin-right: 20px;
+	background: rgb(64,210,177);
+	color: #fff;
+	border-radius: 50%;
+}
+.lvjing{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.7);
+	padding: 90px 0;
+}
+/*导航*/
+.navbar-default{
+	background: #fff;
+	border: none;
+	box-shadow: 0px 2px 8px 0px rgba(50,50,50,0.25);
+}
+.navbar-default .navbar-brand{
+	font-size: 20px;
+	font-weight: bold;
+	color: #40d2b1;
+	height: 70px;
+	line-height: 35px;
+}
+.navbar-default .navbar-brand>li>a{
+	font-size: 16px;
+	font-weight: bold;
+	color: #666;
+	height: 70px;
+	line-height: 35px;	
+}
+.navbar-toggle{
+	margin-top: 17px;
+}
+.navbar-default .navbar-toggle:hover{
+	border-color: #40D2B1;
+	background-color: rgb(69,210,184);
+}
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: #1c9982;
+}
+.navbar-brand{
+	display: inline-block;
+	width: 200px;
+	height: 100%;
+}
+.navbar-brand img{
+	width: 100%;
+	height: 100%;
+}
+.navbar-collapse{
+	float: left;
+	padding-left: 40px;
+	padding-top: 20px;
+}
+.navbar-nav li.ac{
+	background-color: transparent;
+	border-bottom: 1px solid red;
+}
+.navbar-nav li:hover{
+	border-bottom: 1px solid red;
+}
+/*导航*/
+/*轮播图*/
+#lbt{
+	margin-top: 31px;
+	width: 100%;
+	
+}
+#lbt img{
+	width: 100%;
+	height: 100%;
+}
+/*轮播图*/
+/*<!--公司简介区域-->*/
+#html5{
+	background: #fff;
+}
+#html5,
+#bootstrap{
+	padding: 80px 0;
+}
+#html5 h2,
+#bootstrap h2{
+	display: inline-block;
+	width: auto;
+	font-weight: bold;
+	padding-bottom: 10px;
+	border-bottom: 2px solid red;
+}
+#html5 p,
+#bootstrap p{
+	line-height: 25px;
+	font-size: 12px;
+}
+.GS{
+	color: #C0C0C0;
+	font-size: 16px;
+}
+/*<!--公司简介区域-->*/
+/*公司运营*/
+
+.html5{
+	background: rgb(243,243,243);
+}
+.html5,
+.bootstrap{
+	padding: 80px 0;
+}
+.html5 h2,
+.bootstrap h2{
+	display: inline-block;
+	width: auto;
+	font-weight: bold;
+	padding-bottom: 10px;
+	border-bottom: 2px solid red;
+}
+.html5 p,
+.bootstrap p{
+	line-height: 25px;
+	font-size: 12px;
+}
+.GS{
+	color: #C0C0C0;
+	font-size: 16px;
+}
+/*介绍*/
+#bbs{
+	padding: 80px 0;
+	text-align: center;
+	
+}
+#bbs a{
+	color: #212121;	
+	text-decoration: none;
+}
+#bbs .col-md-4{
+	padding: 15px;
+}
+#bbs .col-md-4:hover{
+	box-shadow: 1px 1px 4px #ccc;
+}
+#bbs img{
+	margin: 0 auto;
+}
+#bbs h3{
+	font-weight: bold;
+}
+.img_box{
+	width: 100%;
+	height: 50%;
+}
+.img_box img{
+	width: 70%;
+	height: 70%;
+	margin: 0 auto;
+}
+/*jies*/
+/*weibu*/
+#app{
+     background: rgb(51,51,51);
+     color: #fff;
+}
+.img{
+	margin-top: -10px;
+}
+
+#app ul{
+	list-style: none;
+	margin-top: 40px;
+	
+}
+#app ul li{
+	float: left;
+	padding: 0 15px;
+}
+.title{
+	margin-top: 40px;
+}
+.location{
+	display: inline-block;
+	background: url(../img/images/images/images/images/images/images/images/images/images/weizhi_10.jpg) left center no-repeat;
+	padding-left: 30px;
+}
+.wz{
+	background: url(../img/images/images/images/images/images/images/images/images/images/weizhi1_10.jpg) left center no-repeat;
+}
+.ls{
+	margin-left: 20px;
+	display: inline-block;
+	padding: 0 2px;
+	height: 30px;
+	line-height: 30px;
+	text-indent: 10px;
+	border-radius: 100px;
+	background: #0F0F0F;
+	font-size: 10px;
+}
+/*尾部*/
+
